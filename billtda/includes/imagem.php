@@ -1,0 +1,1 @@
+<div class="center"><img src="imagens/logoBike.png"></div>
